@@ -1,5 +1,26 @@
 # 💫 About Me:
 I am a programmer specialized in JavaScript, Node, React and Next.js, and I am passionate about solving programming problems on platforms like LeetCode and CodeWars. I am always looking to improve my skills and learn new technologies to create innovative and efficient solutions.
+<table align="center">
+  <tr>
+    <td>
+
+- 🌱 I’m currently learning **React and Next.js**
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+- 👨‍💻 You can find my projects in my personal WebPage  **[My Portfolio](https://github.com/Alex87464)** (the website is comming soon)
+
+- 📫 How to reach me **alexoliva87464@gmail.com**
+
+- ⚡ Fun fact **I love to play the guitar 🎸 and enjoy solving Problems.**
+</td>
+<td>
+<a href="https://app.daily.dev/Alex87464">
+<img src="https://api.daily.dev/devcards/760adcf46876469fb6f3f36978bcc961.png?r=xzm" width="400" alt="Alex Oliva's Dev Card"/>
+</a>
+</td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
