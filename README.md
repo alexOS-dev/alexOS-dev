@@ -33,6 +33,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alex87464&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex87464&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+![Codewars](https://www.codewars.com/users/Alex87464/badges/large)
 ![Codewars](https://github.r2v.ch/codewars?user=Alex87464&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue)
 ---
 [![](https://visitcount.itsvg.in/api?id=Alex87464&icon=2&color=1)](https://visitcount.itsvg.in)
