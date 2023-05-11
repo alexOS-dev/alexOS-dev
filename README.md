@@ -12,7 +12,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 
 - 📫 How to reach me **alexoliva87464@gmail.com**
 
-- ⚡ Fun fact **I love to play the guitar 🎸 and enjoy solving Problems.**
+- ⚡ Fun fact **I love to play the guitar 🎸 and I enjoy solving programming problems.**
 </td>
 <td>
 <a href="https://app.daily.dev/Alex87464">
