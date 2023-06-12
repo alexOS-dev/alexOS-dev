@@ -4,7 +4,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
   <tr>
     <td>
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **React and Node.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
