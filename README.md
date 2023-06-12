@@ -54,7 +54,6 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex87464&theme=nord_dark)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=Alex87464&theme=react&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Alex87464&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alex87464&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
