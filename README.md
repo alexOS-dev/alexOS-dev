@@ -1,4 +1,8 @@
 # 💫 About Me:
+<!-- <p> -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=D3D0CB&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer" /></a>
+<!-- </p> -->
+
 I am a programmer specialized in JavaScript, Node, React and Next.js, and I am passionate about solving programming problems on platforms like LeetCode and CodeWars. I am always looking to improve my skills and learn new technologies to create innovative and efficient solutions.
 <table align="center">
   <tr>
@@ -53,17 +57,17 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex87464&theme=nord_dark)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Alex87464&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Alex87464&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alex87464&theme=dark)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex87464&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex87464&layout=compact&theme=dark&bg_color=0A0A0A)<br/>
+
 
 ![Codewars](https://www.codewars.com/users/Alex87464/badges/large)
-![Codewars](https://github.r2v.ch/codewars?user=Alex87464&name=true&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=midnight_blue)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Alex87464&icon=2&color=1)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/alex87464) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
