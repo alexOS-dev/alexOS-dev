@@ -12,7 +12,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 You can find my projects in my personal WebPage  **[My Portfolio](https://alexoliva.me)** 
+- 👨‍💻 You can find my projects in my **[personal Website](https://alexoliva.me)** 
 
 - 📫 How to reach me **alexoliva87464@gmail.com**
 
