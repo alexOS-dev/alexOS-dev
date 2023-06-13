@@ -1,6 +1,6 @@
 # 💫 Welcome! I'm Alex
 <!-- <p> -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=D3D0CB&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=D3D0CB&size=20&lines=I'm+a+Full-Stack+Developer;Artificial+ingelligence+Enthusiast" /></a>
 <!-- </p> -->
 
 I am a programmer specialized in JavaScript, Node, React and Next.js, and I am passionate about solving programming problems on platforms like LeetCode and CodeWars. I am always looking to improve my skills and learn new technologies to create innovative and efficient solutions.
