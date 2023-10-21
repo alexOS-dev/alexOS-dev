@@ -16,7 +16,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 
 - 📫 How to reach me **alexoliva87464@gmail.com**
 
-- ⚡ Fun fact **I love to play the guitar 🎸 and I enjoy solving programming problems.**
+- ⚡ Fun fact **I love to play the guitar 🎸 and I'm into competitive programming'.**
 </td>
 <td>
 <a href="https://app.daily.dev/Alex87464">
@@ -38,6 +38,8 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
