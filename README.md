@@ -8,7 +8,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
   <tr>
     <td>
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **Flutter and Next.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -47,6 +47,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
 ![MUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vercel](https://img.shields.io/static/v1?style=for-the-badge&message=Vercel&color=000000&logo=Vercel&logoColor=FFFFFF&label=)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
