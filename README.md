@@ -12,7 +12,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
   <tr>
     <td>
 
-- 🌱 I’m currently learning **Flutter and Next.js**
+- 🌱 I’m currently learning **OpenAI API and Next.js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
