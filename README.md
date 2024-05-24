@@ -8,7 +8,7 @@
 
 I am a programmer specialized in JavaScript, Node, React and Next.js, and I am passionate about solving programming problems on platforms like LeetCode and CodeWars. I am always looking to improve my skills and learn new technologies to create innovative and efficient solutions.
 
-<table align="center">
+<table align="left">
   <tr>
     <td>
 
@@ -21,14 +21,12 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 - 📫 How to reach me **alexoliva.developer@gmail.com**
 
 - ⚡ Fun fact **I love to play the guitar 🎸 and I'm into competitive programming'.**
-</td>
-<td>
-<a href="https://app.daily.dev/alex87464">
-  <img src="https://api.daily.dev/devcards/v2/WOGj99zrIJzYFrv9wDdPy.png?r=49c&type=default" width="356" alt="Alex Oliva's Dev Card"/>
-</a>
-</td>
-  </tr>
-</table>
+  </td>
+  <td>
+  <a href="https://app.daily.dev/alex87464"><img src="https://api.daily.dev/devcards/v2/WOGj99zrIJzYFrv9wDdPy.png?r=49c&type=wide" width="652" alt="Alex Oliva's Dev Card"/></a>
+
+    </tr>
+  </table>
 
 ## 🌐 Socials:
 
