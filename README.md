@@ -23,7 +23,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 - ⚡ Fun fact **I love to play the guitar 🎸 and I'm into competitive programming'.**
   </td>
   <td>
-  <a href="https://app.daily.dev/alex87464"><img src="https://api.daily.dev/devcards/v2/WOGj99zrIJzYFrv9wDdPy.png?r=49c&type=wide" width="652" alt="Alex Oliva's Dev Card"/></a>
+  <a href="https://app.daily.dev/alex87464"><img src="./devcard.png" width="652" alt="Alex Oliva's Dev Card"/></a>
 
     </tr>
   </table>
