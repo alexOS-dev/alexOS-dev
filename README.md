@@ -93,7 +93,9 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Alex87464&theme=dark)
 ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alex87464&theme=github_dark&utcOffset=-3)
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex87464&layout=compact&theme=dark&bg_color=0A0A0A)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex87464&layout=compact&theme=dark&bg_color=0A0A0A)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alex87464&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)
+<br/>
 
 ![Codewars](https://www.codewars.com/users/Alex87464/badges/large)
 
