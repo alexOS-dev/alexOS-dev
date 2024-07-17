@@ -12,15 +12,15 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
   <tr>
     <td>
 
-- 🌱 I’m currently learning **OpenAI API and Next.js**
+- 🌱 Currently Learning: Exploring the OpenAI API and diving deeper into Next.js.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 Open to Collaboration: Looking to contribute to open source projects. Let's build something great together!
 
-- 👨‍💻 You can find my projects in my **[personal website](https://alexoliva.me)**
+- 👨‍💻 My Projects: Check out my work on my personal website.
 
-- 📫 How to reach me **alexoliva.developer@gmail.com**
+- 📫 Contact Me: Feel free to reach out at alexoliva.developer@gmail.com.
 
-- ⚡ Fun fact **I love to play the guitar 🎸 and I'm into competitive programming'.**
+- ⚡ Hobbies: I enjoy playing the guitar 🎸 and I'm passionate about speedcubing (Rubik's Cube).
   </td>
   <td>
   <a href="https://app.daily.dev/alex87464"><img src="./devcard.png" width="652" alt="Alex Oliva's Dev Card"/></a>
