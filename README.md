@@ -16,7 +16,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 
 - 👯 Open to Collaboration: Looking to contribute to open source projects. Let's build something great together!
 
-- 👨‍💻 My Projects: Check out my work on my personal website.
+- 👨‍💻 My Projects: Check out my work on my [personal website](https://alexoliva.work/).
 
 - 📫 Contact Me: Feel free to reach out at alexoliva.developer@gmail.com.
 
