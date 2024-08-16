@@ -97,7 +97,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexOS-dev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)
 <br/>
 
-![Codewars](https://www.codewars.com/users/Alex87464/badges/large)
+![Codewars](https://www.codewars.com/users/alexOS-dev/badges/large)
 
 ---
 
