@@ -12,7 +12,7 @@ I am a programmer specialized in JavaScript, Node, React and Next.js, and I am p
   <tr>
     <td>
 
-- 🌱 Currently Learning: Exploring the OpenAI API and diving deeper into Next.js.
+- 🌱 Currently Learning: Exploring the OpenAI API and diving deeper into [Nest.js](https://nestjs.com/)
 
 - 👯 Open to Collaboration: Looking to contribute to open source projects. Let's build something great together!
 
