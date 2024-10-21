@@ -27,7 +27,7 @@ I am always looking to improve my skills and learn new technologies to create in
     </tr>
   </table>
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-oliva/)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Alex87464)
