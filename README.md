@@ -27,13 +27,14 @@ I am always looking to improve my skills and learn new technologies to create in
     </tr>
   </table>
 
-# 🌐 Socials:
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-oliva/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexoliva.developer@gmail.com?subject=GitHub%20-%20Alex%20Oliva)
 [![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/Alex87464)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19150149)
 
-# 💻 Main Tech Stack:
+# 💻 Main Tech Stack
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -99,7 +100,7 @@ I am always looking to improve my skills and learn new technologies to create in
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 ![Contributions graphic](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexOS-dev&theme=dark)<br/>
 ![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alexOS-dev&theme=dark)
