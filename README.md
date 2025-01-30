@@ -107,7 +107,7 @@ I am always looking to improve my skills and learn new technologies to create in
 ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alexOS-dev&theme=github_dark&utcOffset=-3)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexOS-dev&layout=compact&theme=dark&bg_color=0A0A0A)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=alexOS-dev&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=alexOS-dev&theme=dark&hide_border=true)
 <br/>
 
 ![Codewars](https://www.codewars.com/users/alexOS-dev/badges/large)
