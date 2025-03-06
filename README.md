@@ -15,8 +15,6 @@ I am always looking to improve my skills and learn new technologies to create in
 
 - 💼 **Open to Collaboration**: Looking to contribute to _open source projects_. Let's build something **great together**!
 
-- 👨‍💻 **My Projects**: Check out my work on my [personal website](https://alexoliva.work/).
-
 - 📫 **Contact Me**: Feel free to reach out at my [Gmail - Alex Oliva](mailto:alexoliva.developer@gmail.com?subject=GitHub%20-%20Alex%20Oliva)
 
 - ⚡ Hobbies: I enjoy playing the guitar 🎸 and I'm passionate about _speedcubing_ (Rubik's Cube).
